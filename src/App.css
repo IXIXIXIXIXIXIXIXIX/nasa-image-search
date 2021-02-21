@@ -109,6 +109,7 @@ input:-internal-autofill-selected {
   max-width: 60%;
   margin: 50px;
   border-radius: 2px;
+  cursor: none;
 }
 
 
@@ -123,7 +124,8 @@ input:-internal-autofill-selected {
 }
 
 .disappearing:hover {
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
 
 .info-title {

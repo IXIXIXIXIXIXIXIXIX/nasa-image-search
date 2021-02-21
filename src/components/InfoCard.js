@@ -8,7 +8,7 @@ const InfoCard = ({backGroundInfo, disappearing}) => {
       <>
         <div className="main-body-row">
         </div>  
-          <div className="info-card disappearing">
+          <div className="info-card disappearing in-from-top">
             <span className="info-title">{backGroundInfo["title"]}</span>
             <p className="info-main">{backGroundInfo["explanation"]}</p>
             <span className="info-instruction">Mouse over to hide.</span>
