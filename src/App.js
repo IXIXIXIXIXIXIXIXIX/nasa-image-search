@@ -12,7 +12,7 @@ import NotFound from './components/NotFound';
 
 function App() {
 
-  const numberOfImages = 25;
+  const numberOfImages = 10;
   const nasaApiAccessData = {
     apiKey: "bD3Dn3OL0CSHsCy7UnUFmorfgRMNNT3TMz4lWoaF",
     // apiKey: "DEMO_KEY",
