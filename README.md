@@ -1,3 +1,12 @@
+# Nasa Image Search app
+## Introduction
+This app is a simple image search of NASA's publicly available images.
+The index route displays one of NASA's images of the day at random along with its accomanying description.
+The in-app refresh button will change the image displayed.
+
+Clicking the seach icon in the nav-bar will allow you to search NASA's data for images on any topic of your choice.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
